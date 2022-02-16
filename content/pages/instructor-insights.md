@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2b5eb0f3-9634-5294-0dae-bbb7635330d1
 ---
@@ -42,20 +44,6 @@ H-Level Graduate Credit
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A view of the classroom from the back, facing the blackboards in the front of the room.]({{< resource_file 448e6647-b911-9b46-c469-dd04127f78c0 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This class was taught in a tiered classroom featuring modern tables and chairs, multiple screens, video and overhead projectors, an annotatable computer monitor, video conferencing, wireless internet, and assistive listening.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
