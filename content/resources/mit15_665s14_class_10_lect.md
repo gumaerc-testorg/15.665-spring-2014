@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 10: Fairness and Ethics - 15.665 Spring 2014'
 uid: f0bd31f3-e6fb-552c-f461-627eeeda3c4d

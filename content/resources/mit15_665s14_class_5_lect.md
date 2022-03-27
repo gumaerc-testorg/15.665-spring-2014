@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 5: Overcoming Obstacles - 15.665 Spring 2014'
 uid: dae468a6-8f72-9e53-01d7-1aa5e003b748

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 2: Slicing the Pie - 15.665 Spring 2014'
 uid: 836e6003-4de0-6f41-142d-cc218de28a84

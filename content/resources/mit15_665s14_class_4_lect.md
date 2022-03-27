@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 4: Negotiator''s Dilemma - 15.665 Spring 2014'
 uid: 46827c67-0a9a-ec3e-6c20-46ab8d7176d4

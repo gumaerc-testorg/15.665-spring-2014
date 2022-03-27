@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 8: Autonomy and Status - 15.665 Spring 2014'
 uid: afaef8de-a492-f7fa-c5b9-0a2ac7fa1dd7

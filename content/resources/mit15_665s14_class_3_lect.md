@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 3: Expanding the Pie - 15.665 Spring 2014'
 uid: ba518742-d660-ffaf-e930-8c13e50cf5fb

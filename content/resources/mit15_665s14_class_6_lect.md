@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 6: Relationships - 15.665 Spring 2014'
 uid: 85bba314-2e3d-44e5-0b37-d93fab7c6ef6

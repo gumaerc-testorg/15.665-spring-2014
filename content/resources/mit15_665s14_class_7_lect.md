@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 resourcetype: Document
 title: 'Lecture 7: Cross-Cultural Negotiation - 15.665 Spring 2014'
 uid: 87f0b32d-56b0-309b-b3af-84576a68cbb3
