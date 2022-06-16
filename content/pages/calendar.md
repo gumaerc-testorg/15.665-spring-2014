@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, simulations and
+  exercises, and key dates for assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: ada39ae0-8dac-9ed1-3a76-844c31b3cfbb
 ---
 
-Note that there were fourteen in-class simulations from which students were instructed to chose only three upon which to write reflective memos. See the [Assignments Section]({{< baseurl >}}/pages/assignments) for detailed instructions.
+Note that there were fourteen in-class simulations from which students were instructed to chose only three upon which to write reflective memos. See the {{% resource_link 19141a53-bb2e-af59-bbec-0eace117ad1c "Assignments Section" %}} for detailed instructions.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, goals and learning objectives, course materials, requirements,
+  grading, and confidentiality.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
