@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2b5eb0f3-9634-5294-0dae-bbb7635330d1
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _15.665 Power and Negotiation_ as it was taught by Professor Ofer Sharone in Spring 2014.
 
@@ -16,26 +17,24 @@ This course provides understanding of the theory and processes of negotiation as
 
 Students experienced and experimented with different negotiation strategies and tools, recognized and correcting common mistakes, and reflected upon their experiences in order to increase effectiveness in negotiating.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 After taking this course, students will be able to:
 
-*   Garner a fair share of what is negotiated
-*   Recognize opportunities to create value that others might overlook
-*   Strategically analyze negotiation situations and avoid common mistakes
-*   Build lasting working relationships with negotiation counterparts
-*   Handle difficult conversations in business and life
-*   Reflect and learn from experiences
+- Garner a fair share of what is negotiated
+- Recognize opportunities to create value that others might overlook
+- Strategically analyze negotiation situations and avoid common mistakes
+- Build lasting working relationships with negotiation counterparts
+- Handle difficult conversations in business and life
+- Reflect and learn from experiences
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-Permission of the instructor. Undergraduates may register for this subject provided they are ready to participate with the intensity expected for a grad H-level ![](/images/educator/icon-question-hlevel.png) subject.
+Permission of the instructor. Undergraduates may register for this subject provided they are ready to participate with the intensity expected for a grad H-level ![](/images/educator/icon-question-hlevel.png)subject.
 
 ### Requirements Satisfied
 
@@ -47,19 +46,19 @@ Every fall and spring semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
-- 40% Reflective memos(8% each)
+- 40% Reflective memos (8% each)
 - 30% Paper and presentation proposal
 - 30% Class attendance and participation
 
-Student Information
--------------------
+## Student Information
 
-![Approximately 70 students take this course each time it is offered.]({{< resource_file 1ce0b7c8-4971-c7e9-71b6-373ea7e5ab45 >}})
+### Enrollment
+
+About 70 students
 
 ### Breakdown by Year
 
@@ -75,18 +74,15 @@ Students who have an interest in systematically learning and practicing effectiv
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 9 hours on the course, roughly divided as follows:
 
-In Class/Lecture
-----------------
+### In Class/Lecture
 
 Met 1 time per week for 3 hours per session; mandatory attendance.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Homework]({{< baseurl >}}/pages/assignments), [reading]({{< baseurl >}}/pages/readings), research, and preparation for in-class simulations.
-*   Students were expected to write 3 reflective memos based on simulation exercises in addition to one real life memo and one grand finale memo throughout the semester.
+- {{% resource_link 19141a53-bb2e-af59-bbec-0eace117ad1c "Homework" %}}, {{% resource_link 63d2fd7d-cf24-8cf9-1918-dd5996cec6c6 "reading" %}}, research, and preparation for in-class simulations.
+- Students were expected to write 3 reflective memos based on simulation exercises in addition to one real life memo and one grand finale memo throughout the semester.
