@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 19141a53-bb2e-af59-bbec-0eace117ad1c
 ---
@@ -16,7 +20,7 @@ Reflecting critically on one's own choices and actions is crucial for strengthen
 You may choose to reflect on _any_ 3 simulations. _**Please note that for the last two classes in the course there are no simulations for you to reflect upon.**_
 
 *   **Real Life Memo:** To fully internalize the negotiations skills learned in the classroom it is important to experiment using these skills outside the classroom. For _one_ of your five memos you should analyze a "real life" negotiation that you experience outside the classroom. If you happen to be already engaged in a negotiation during the semester, whether in your professional life or personal life, you may reflect upon that. Another alternative is to create a negotiation situation. One fun way to do this is to negotiate a typically "non-negotiable" item like a candy bar at a grocery store. You could also try to negotiate free food or other "freebies" for the entire class (see the "Freebie Challenge" described below). This memo should describe your preparation, strategy, the outcome, and what you learned from the experience.
-*   **Grand Finale Memo:** For the final (5th) memo reflect back on what you've learned in the course of the semester, how your negotiation style has changed, and what you still want to work on going forward. As part of this memo please think back to some very significant negotiation that occurred earlier in your life, and reflect on how you might have approached this negotiation differently in light of the concepts learned in this class.
+*   **Grand Finale Memo:** For the final (5{{< sup "th" >}}) memo reflect back on what you've learned in the course of the semester, how your negotiation style has changed, and what you still want to work on going forward. As part of this memo please think back to some very significant negotiation that occurred earlier in your life, and reflect on how you might have approached this negotiation differently in light of the concepts learned in this class.
 
 All five memos will be graded with a check (typical grade for a memo), check-plus (exceptionally good memo which exhibits insights from integrating experience with concepts learned in class and the readings), or check-minus (below average memo).
 

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings assigned for
+  each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 63d2fd7d-cf24-8cf9-1918-dd5996cec6c6
 ---

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with selected lecture notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 60c66ecf-4437-36b7-d5ee-89a7c24895e7
 ---
@@ -42,7 +47,7 @@ No lecture notes
 Slicing the Pie: How to Win
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Slicing the Pie (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_2_lect)
+{{% resource_link 836e6003-4de0-6f41-142d-cc218de28a84 "Lecture 2: Slicing the Pie (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Slicing the Pie: How to Win
 Expanding the Pie: How Both Parties Can Win
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3: Expanding the Pie (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_3_lect)
+{{% resource_link ba518742-d660-ffaf-e930-8c13e50cf5fb "Lecture 3: Expanding the Pie (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Expanding the Pie: How Both Parties Can Win
 The Negotiator's Dilemma and Discovering your Style
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4: Negotiator's Dilemma (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_4_lect)
+{{% resource_link 46827c67-0a9a-ec3e-6c20-46ab8d7176d4 "Lecture 4: Negotiator's Dilemma (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ The Negotiator's Dilemma and Discovering your Style
 Difficult Tactics and Overcoming Obstacles to Win-Win
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5: Overcoming Obstacles (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_5_lect)
+{{% resource_link dae468a6-8f72-9e53-01d7-1aa5e003b748 "Lecture 5: Overcoming Obstacles (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Difficult Tactics and Overcoming Obstacles to Win-Win
 The Centrality of Relationships
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Relationships (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_6_lect)
+{{% resource_link 85bba314-2e3d-44e5-0b37-d93fab7c6ef6 "Lecture 6: Relationships (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ The Centrality of Relationships
 Cross-Cultural Negotiations
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: Cross-Cultural Negotiation (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_7_lect)
+{{% resource_link 87f0b32d-56b0-309b-b3af-84576a68cbb3 "Lecture 7: Cross-Cultural Negotiation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Cross-Cultural Negotiations
 Autonomy and Status
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: Autonomy and Status (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_8_lect)
+{{% resource_link afaef8de-a492-f7fa-c5b9-0a2ac7fa1dd7 "Lecture 8: Autonomy and Status (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Autonomy and Status
 Multiparty Negotiations and Coalitions
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9: Multiparty Negotiations and Coalitions (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_9_lect)
+{{% resource_link 0874a25f-5fcc-544e-af55-441ac9e38993 "Lecture 9: Multiparty Negotiations and Coalitions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +143,7 @@ Multiparty Negotiations and Coalitions
 The Power of Fairness and Ethics in Negotiations
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10: Fairness and Ethics (PDF)]({{< baseurl >}}/resources/mit15_665s14_class_10_lect)
+{{% resource_link f0bd31f3-e6fb-552c-f461-627eeeda3c4d "Lecture 10: Fairness and Ethics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
