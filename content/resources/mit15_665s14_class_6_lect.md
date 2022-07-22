@@ -5,6 +5,7 @@ file: /courses/15-665-power-and-negotiation-spring-2014/85bba3142e3d44e50b37d93f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 6: Relationships - 15.665 Spring 2014'
 uid: 85bba314-2e3d-44e5-0b37-d93fab7c6ef6
 ---
 This file contains the information regarding Relationships.
-

@@ -6,6 +6,7 @@ file: /courses/15-665-power-and-negotiation-spring-2014/0874a25f5fcc544eaf55441a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 9: Multiparty Negotiations and Coalitions - 15.665 Spring 2014'
 uid: 0874a25f-5fcc-544e-af55-441ac9e38993
 ---
 This file contains the information regarding Multiparty Negotiations and Coalitions.
-
