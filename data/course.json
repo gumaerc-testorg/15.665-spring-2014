@@ -43,8 +43,10 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments with Examples",
-    "Presentation Assignments"
+    "Presentation Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "579469ad-a92f-4353-bfae-1bfae03f212a",
+  "site_uid": "87bd8e8b-a560-465a-be36-3221417fbd16",
+  "site_short_id": "15.665-spring-2014",
   "title": "Course Metadata"
 }
