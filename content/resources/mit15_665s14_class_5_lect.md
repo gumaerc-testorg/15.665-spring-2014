@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Overcoming Obstacles. '
 file: /courses/15-665-power-and-negotiation-spring-2014/dae468a68f729e5301d71aa5e003b748_MIT15_665S14_Class_5_Lect.pdf
+file_size: 213390
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

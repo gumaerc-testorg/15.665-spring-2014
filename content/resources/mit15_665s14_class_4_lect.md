@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Negotiator's Dilemma.
 file: /courses/15-665-power-and-negotiation-spring-2014/46827c670a9aec3e6c2046ab8d7176d4_MIT15_665S14_Class_4_Lect.pdf
+file_size: 483641
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
