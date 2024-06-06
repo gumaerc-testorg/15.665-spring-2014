@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Expanding the Pie.
 file: /courses/15-665-power-and-negotiation-spring-2014/ba518742d660ffafe9308c13e50cf5fb_MIT15_665S14_Class_3_Lect.pdf
+file_size: 246295
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
