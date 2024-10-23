@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Slicing the Pie.
-file: /courses/15-665-power-and-negotiation-spring-2014/836e60034de06f41142dcc218de28a84_MIT15_665S14_Class_2_Lect.pdf
+file: /ol-ocw-studio-app/courses/15-665-power-and-negotiation-spring-2014/836e60034de06f41142dcc218de28a84_MIT15_665S14_Class_2_Lect.pdf
 file_size: 498363
 file_type: application/pdf
 learning_resource_types:

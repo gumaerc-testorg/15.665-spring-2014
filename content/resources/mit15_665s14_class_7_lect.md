@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Cross-Cultural Negotiation.
-file: /courses/15-665-power-and-negotiation-spring-2014/87f0b32d56b0309bb3af84576a68cbb3_MIT15_665S14_Class_7_Lect.pdf
+file: /ol-ocw-studio-app/courses/15-665-power-and-negotiation-spring-2014/87f0b32d56b0309bb3af84576a68cbb3_MIT15_665S14_Class_7_Lect.pdf
 file_size: 153590
 file_type: application/pdf
 learning_resource_types:
