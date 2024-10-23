@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Multiparty Negotiations
   and Coalitions.
-file: /courses/15-665-power-and-negotiation-spring-2014/0874a25f5fcc544eaf55441ac9e38993_MIT15_665S14_Class_9_Lect.pdf
+file: /ol-ocw-studio-app/courses/15-665-power-and-negotiation-spring-2014/0874a25f5fcc544eaf55441ac9e38993_MIT15_665S14_Class_9_Lect.pdf
 file_size: 114976
 file_type: application/pdf
 learning_resource_types:
