@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Fairness and Ethics.
-file: /ol-ocw-studio-app/courses/15-665-power-and-negotiation-spring-2014/f0bd31f3e6fb552cf461627eeeda3c4d_MIT15_665S14_Class_10_Lect.pdf
+file: /courses/15-665-power-and-negotiation-spring-2014/f0bd31f3e6fb552cf461627eeeda3c4d_MIT15_665S14_Class_10_Lect.pdf
 file_size: 109921
 file_type: application/pdf
 learning_resource_types:
