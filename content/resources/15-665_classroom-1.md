@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-665-power-and-negotiation-spring-2014/448e6647b9119b46c469dd04127f78c0_15-665_classroom-1.jpg
+file: /courses/15-665-power-and-negotiation-spring-2014/448e6647b9119b46c469dd04127f78c0_15-665_classroom-1.jpg
 file_size: 57315
 file_type: image/jpeg
 image_metadata:
